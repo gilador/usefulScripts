@@ -1,6 +1,6 @@
 # clear_logs.sh
 
-This is a Bash script that searches for specific file types within a defined directory and performs operations on them, excluding certain directories and files.
+This Bash script scans the project files for log commands and deletes them, while excluding specified directories and files.
 
 ## Description
 
